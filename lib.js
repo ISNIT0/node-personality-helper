@@ -1,6 +1,7 @@
 const request = require('request-promise-native');
 
 module.exports = function makeMessageResponder(config, language, personality) {
+    //TODO: verify input
     return function getMessageReponse(message, sourceId, roomId, eventId, eventTime) {
         return request.post({
             method: 'POST',
