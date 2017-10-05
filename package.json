@@ -1,0 +1,19 @@
+{
+  "name": "personality-helper",
+  "version": "1.0.0",
+  "description": "A simple personality-server wrapper",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ISNIT0/node-personality-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ISNIT0/node-personality-helper/issues"
+  },
+  "homepage": "https://github.com/ISNIT0/node-personality-helper#readme"
+}
