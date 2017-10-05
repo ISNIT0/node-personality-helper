@@ -1,5 +1,5 @@
 # Personality Helper
-A very simple wrapper for the personality server
+A very simple wrapper for the [personality server](https://github.com/Polite-AI/personality-server)
 
 
 ```javascript
