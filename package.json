@@ -1,6 +1,6 @@
 {
   "name": "personality-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple personality-server wrapper",
   "main": "lib.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ISNIT0/node-personality-helper.git"
+    "url": "git+https://github.com/Polite-AI/node-personality-helper.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ISNIT0/node-personality-helper/issues"
+    "url": "https://github.com/Polite-AI/node-personality-helper/issues"
   },
-  "homepage": "https://github.com/ISNIT0/node-personality-helper#readme",
+  "homepage": "https://github.com/Polite-AI/node-personality-helper#readme",
   "dependencies": {
     "request": "2.83.0",
     "request-promise-native": "1.0.5"
